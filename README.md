@@ -10,35 +10,27 @@ This project is a Python-based **Smart Campus Information System** developed as 
 
 The application is built using a modular architecture, consisting of the following key features:
 
-* 
 **Student Registration & Grading**: Automated student input with grade evaluation based on performance .
 
 
-* 
 **Course Enrollment Management**: Manage course credits with validation logic and loop-based entry .
 
 
-* 
 **Event Participation Analysis**: Uses Python Sets to analyze student participation across various events .
 
 
-* 
 **Data Sorting & Searching**: Implementation of Bubble Sort and Binary Search algorithms for efficient data handling .
 
 
-* 
 **Fee Calculation**: Dynamic fee calculation module using functional programming.
 
-
-* 
+ 
 **File Handling & Management**: Persistent data storage for student records with reporting features .
 
 
-* 
 **Directory Scanning**: Exception-handled directory traversal for project file management .
 
 
-* 
 **Performance Analytics**: Advanced data analysis and visualization using `NumPy`, `Pandas`, and `Matplotlib` .
 
 
@@ -47,15 +39,14 @@ The application is built using a modular architecture, consisting of the followi
 
 * **Language**: Python 3.x
 * **Libraries**:
-* 
+
 `pandas`: For data manipulation and statistical summaries.
 
 
-* 
+
 `numpy`: For numerical operations.
 
 
-* 
 `matplotlib`: For generating performance charts.
 
 
